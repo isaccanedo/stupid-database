@@ -94,8 +94,3 @@ You can run very basic SQL against the stupid database. Just add the commands in
 The parser is a stripped down version copied from the SQLite3 parser.
 
 Again, this is for educational purposes only.
-
----
-
-Copyright (C) Fabio Akita, 2022
-This project should not be used out of context, without the permission of the author
